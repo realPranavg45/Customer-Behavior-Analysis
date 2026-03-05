@@ -168,4 +168,3 @@ This project demonstrates the ability to perform **end-to-end data analytics**, 
 
 ---
 
-⭐ If you like this project, feel free to **star the repository**!

@@ -1,4 +1,6 @@
+
 # 📊 Customer Shopping Behavior Analysis
+<img width="1499" height="821" alt="image" src="https://github.com/user-attachments/assets/74320bf9-3b1c-4886-9ace-fb0561be656f" />
 
 An **End-to-End Data Analytics Project** that analyzes retail customer purchasing behavior using **Python, SQL (PostgreSQL), and Power BI** to generate meaningful business insights.
 
